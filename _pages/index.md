@@ -34,7 +34,7 @@ Listed in [https://sefm-conference.github.io](https://sefm-conference.github.io)
 
 {:style="text-align:center;"}
 [![UCLM logo]({{ site.baseurl }}{% link assets/UCLM_logo.png %} "logo")](https://www.uclm.es/){:target="blank"}
-[![UCM logo]({{ site.baseurl }}{% link assets/UCM_logo.svg %} "logo")](https://www.ucm.es/).{:target="blank"}
+[![UCM logo]({{ site.baseurl }}{% link assets/UCM_logo.svg %} "logo")](https://www.ucm.es/){:target="blank"}
 [![GRANTS_logo]({{ site.baseurl }}{% link assets/GRANTS_logo.png %} "logo")]([https://www.universidades.gob.es/){:target="blank"}
 
 
