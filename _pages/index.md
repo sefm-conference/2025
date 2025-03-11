@@ -35,7 +35,7 @@ Listed in [https://sefm-conference.github.io](https://sefm-conference.github.io)
 {:style="text-align:center;"}
 [![DMAT logo]({{ site.baseurl }}{% link assets/UCLM_logo.png %} "logo")](https://www.uclm.es/){:target="blank"}
 [![CIDMA logo]({{ site.baseurl }}{% link assets/UCM_logo.svg %} "logo")][(https://www.ucm.es/).{:target="blank"}
-[![logo]({{ site.baseurl }}{% link assets/GRANTS_logo.png %} "logoSmall")]([https://www.universidades.gob.es/){:target="blank"}
+[![logo]({{ site.baseurl }}{% link assets/GRANTS_logo.png %} "logo")]([https://www.universidades.gob.es/){:target="blank"}
 
 
 <!--
