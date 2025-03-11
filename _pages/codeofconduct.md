@@ -43,6 +43,6 @@ Examples include (but are not limited to):
 
 ## Contact
 If you are subjected to unacceptable behaviour or observe that someone else is being subjected to unacceptable behaviour, please approach:
-* Alexandre Madeira ([madeira@ua.pt](mailto:madeira@ua.pt)), or
+* XXXXX ([XXX@XXX.XX](mailto:XXX@XXX,XX)), or
 * Alexander Knapp ([alexander.knapp@uni-a.de](alexander.knapp@uni-a.de)), or
 * any other staff of the local organizing team or at the registration desk, who will provide assistance.
