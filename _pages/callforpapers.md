@@ -6,7 +6,7 @@ permalink: /callforpapers/
 order: 2
 # published: false
 ---
-The 23nd edition of the International Conference on Software Engineering and
+The 23rd edition of the International Conference on Software Engineering and
 Formal Methods will be held between 12 and 14 November 2025, with workshops taking place on 10 and 11 November 2025.
 
 ## Important dates
