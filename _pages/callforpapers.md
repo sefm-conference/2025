@@ -6,16 +6,16 @@ permalink: /callforpapers/
 order: 2
 # published: false
 ---
-The 22nd edition of the International Conference on Software Engineering and
-Formal Methods will be held between 6 and 8 November 2024, with workshops taking place on 4 and 5 November 2024.
+The 23nd edition of the International Conference on Software Engineering and
+Formal Methods will be held between 12 and 14 November 2025, with workshops taking place on 10 and 11 November 2025.
 
 ## Important dates
-- Abstract submission: ~~7 June 2024~~  __28 June 2024__ (AoE) -- Extended!
-- Paper submission: ~~21 June 2024~~  __28 June 2024__ (AoE) -- Extended!
-- Artifact submission: 30 June 2024 (AOE)
-- Author notification: ~~15 August 2024~~ __22 August 2024__
-- Workshops: 4-5 November 2024
-- Conference: 6-8 November 2024
+- Abstract submission: TO BE ANNOUNCED
+- Paper submission: TO BE ANNOUNCED
+- Artifact submission: TO BE ANNOUNCED
+- Author notification:TO BE ANNOUNCED
+- Workshops: 10-11 November 2024
+- Conference: 12-14 November 2024
 
 <!-- 
 - Camera-ready submission: 10 September 2024
@@ -80,7 +80,7 @@ Papers must be formatted according to the [guidelines for Springer LNCS papers](
 All submissions must be original, unpublished, and not submitted concurrently for publication elsewhere. 
 
 Papers can be submitted through Easychair:
-[https://easychair.org/conferences/?conf=sefm24](https://easychair.org/conferences/?conf=sefm24)
+[https://easychair.org/conferences/?conf=sefm25](https://easychair.org/conferences/?conf=sefm25)
 
 
 ## Artifact Evaluation
@@ -89,9 +89,5 @@ Similar to last year, SEFM provides an artifact evaluation (AE). An artifact con
 
 ## Publication
 
-All accepted papers will appear in the proceedings of the conference that will
-be published as a volume in Springer's LNCS series. 
-
-
-The authors of a selected subset of accepted papers will be invited to submit extended versions of their papers to a special issue of the journal [Software and Systems Modeling](https://www.springer.com/journal/10270) (SoSyM).
+TO BE ANNOUNCED
 
