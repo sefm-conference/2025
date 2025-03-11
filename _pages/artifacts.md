@@ -21,10 +21,10 @@ Artifacts of interest include (but are not limited to):
 We aim to assess the artifacts themselves and not the quality of the research linked to the artifact, which is assessed by the SEFM 2024 program committee. However, **artifacts for tool papers** should at least meet the requirements for the **functional badge** for the paper to be eligible for acceptance.
 
 ## Important Dates
--	Artifact submission deadline: June 30th, 2024 (AOE)
--	Test phase notification: July 12th, 2024
--	Author respond period: July 12th-July 18th, 2024 (AOE)
--	Artifact notification: August 15th, 2024
+-	Artifact submission deadline: TO BE ANNOUNCED
+-	Test phase notification: TO BE ANNOUNCED
+-	Author respond period: TO BE ANNOUNCED
+-	Artifact notification: TO BE ANNOUNCED
 
 ## Awarded Badges
 SEFM awards the [Artifacts Available and Artifacts Evaluated badges of EAPLS](https://eapls.org/pages/artifact_badges/).
@@ -51,7 +51,7 @@ An artifact submission should consist of
 
 Please consider the [Artifact Packaging Guidelines](#artifact-packaging-guidelines) for detailed information about the contents of the artifact.
 
-The abstract ~~and the .pdf file of your paper~~ must be submitted via [EasyChair](https://easychair.org/my/conference?conf=sefm24) to the **SEFM'24 Artifact Evaluation** track. The .pdf file of your submitted paper will be taken from your EasyChair submission in paper track.
+The abstract ~~and the .pdf file of your paper~~ must be submitted via [EasyChair](https://easychair.org/my/conference?conf=sefm25) to the **SEFM'25 Artifact Evaluation** track. The .pdf file of your submitted paper will be taken from your EasyChair submission in paper track.
 
 If you cannot submit the artifact as requested or encounter any other difficulties in the submission process, please contact the artifact evaluation chair prior to submission. 
 
