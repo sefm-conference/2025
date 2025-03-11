@@ -5,7 +5,7 @@ permalink: /venue/
 order: 8
 published: true
 ---
-SEFM 2025 will take place at the University of Aveiro (UA) in Portugal.
+SEFM 2025 will take place at the University of Castilla-La Mancha (UCLM) in Toledo, Spain.
 
 <!-- 
 - **The main conference** will take place in (...)
