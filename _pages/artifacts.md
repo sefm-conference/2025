@@ -3,7 +3,7 @@ layout: page
 title: Artifacts
 permalink: /artifacts/
 order: 6
-# published: false
+published: false
 ---
 <!--# Call for Artifacts-->
 Claims and (experimental) results described in a paper often originate from artifacts not present in the paper. Reproducibility of (experimental) results is crucial to foster an atmosphere of open, reusable, and trustworthy research. Furthermore, good artifacts enable future researchers to effectively build on and compare with previous work.
