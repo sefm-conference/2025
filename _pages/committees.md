@@ -3,6 +3,7 @@ layout: page_plain
 title: Committees
 permalink: /comittees/
 order: 4
+published: false
 ---
 ## Programme Committee Chairs
 [Alexandre Madeira](https://sweet.ua.pt/madeira/), University of Aveiro, Portugal  
