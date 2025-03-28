@@ -4,7 +4,7 @@ title: Call for Papers
 subtitle:
 permalink: /callforpapers/
 order: 2
-published: false
+published: true
 ---
 The 23rd edition of the International Conference on Software Engineering and
 Formal Methods will be held between 12 and 14 November 2025, with workshops taking place on 10 and 11 November 2025.
@@ -82,10 +82,6 @@ All submissions must be original, unpublished, and not submitted concurrently fo
 Papers can be submitted through Easychair:
 [https://cmt3.research.microsoft.com/SEFM2025](https://cmt3.research.microsoft.com/SEFM2025)
 
-
-## Artifact Evaluation
-
-Similar to last year, SEFM provides an artifact evaluation (AE). An artifact contains any necessary material to support the claims made in the paper and ideally makes the results fully reproducible. Submission of an artifact is **optional for regular papers** and **mandatory for tool papers**. The artifacts will be judged by the Artifact Evaluation Committee (AEC). More details can be found on the [artifact page]({{ site.baseurl }}/artifacts/). <!--[artifact page]({{ site.baseurl }}{~~~~% link _pages/artifacts.md %}).-->
 
 ## Publication
 
