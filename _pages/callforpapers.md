@@ -4,7 +4,7 @@ title: Call for Papers
 subtitle:
 permalink: /callforpapers/
 order: 2
-# published: false
+published: false
 ---
 The 23rd edition of the International Conference on Software Engineering and
 Formal Methods will be held between 12 and 14 November 2025, with workshops taking place on 10 and 11 November 2025.
@@ -80,7 +80,7 @@ Papers must be formatted according to the [guidelines for Springer LNCS papers](
 All submissions must be original, unpublished, and not submitted concurrently for publication elsewhere. 
 
 Papers can be submitted through Easychair:
-[https://easychair.org/conferences/?conf=sefm25](https://easychair.org/conferences/?conf=sefm25)
+[https://cmt3.research.microsoft.com/SEFM2025](https://cmt3.research.microsoft.com/SEFM2025)
 
 
 ## Artifact Evaluation
