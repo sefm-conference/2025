@@ -13,8 +13,8 @@ CONFIRMED:
 
 - [DataMod 2025][https://datamod-symposium.github.io/DataMod-2025/], **10 & 11 November**: *13th International Symposium - From Data to Models and Back*  
 organised by
-RLivia Lestingi, Politecnico di Milano, Italy
-Gwen Salaün, Université Grenoble Alpes, France
+RLivia Lestingi (Politecnico di Milano, Italy) and
+Gwen Salaün (Université Grenoble Alpes, France).
 
 
 - [CIFMA 2025][(https://cifma.github.io)], **11 November**: *7th International Workshop on Cognition: Interdisciplinary Foundations, Models and Applications*  
