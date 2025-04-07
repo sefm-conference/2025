@@ -22,4 +22,9 @@ organised by
 Francesco Bianchini (University of Bologna, Italy) and
 Arianna Pavone (University of Palermo, Italy).
 
+- [ReacTS 2025](https://reacts-workshop.github.io/2025/), **10-11 November**: *International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications*  
+organised by
+José Proença (University of Porto, Portugal) and
+Umberto Rivieccio (Universidad Nacional de Educación a Distancia, Spain).
+
 ...
