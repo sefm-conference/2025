@@ -10,6 +10,7 @@ published: true
 
 ## Programme Committee Chairs
 [Domenico Bianculli](https://people.svv.lu/bianculli/), University of Luxembourg, Luxembourg
+
 Elena Gómez-Martínez, Complutense University of Madrid, Spain
 
 ## Workshops Chair
