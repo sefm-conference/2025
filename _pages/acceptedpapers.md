@@ -11,7 +11,7 @@ published: true
 td > img { max-width: 48px } td:last-child { min-width: max-content }
 </style>
 
-The following papers have been accepted at SEFM 2025. The indicated artifact badges follow the [EAPLS badging scheme](https://eapls.org/pages/artifact_badges/).
+The following papers have been accepted at SEFM 2025.
 
 TO BE ANNOUNCED
 
