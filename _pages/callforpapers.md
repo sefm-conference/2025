@@ -10,10 +10,11 @@ The 23rd edition of the International Conference on Software Engineering and
 Formal Methods will be held between 12 and 14 November 2025, with workshops taking place on 10 and 11 November 2025.
 
 ## Important dates
-- Abstract submission: TO BE ANNOUNCED
-- Paper submission: TO BE ANNOUNCED
+- Abstract submission: June 6, 2025
+- Paper submission: June 20, 2025
 - Artifact submission: TO BE ANNOUNCED
-- Author notification:TO BE ANNOUNCED
+- Author notification: August 11, 2025
+- Camera ready: August 29, 2025
 - Workshops: 10-11 November 2024
 - Conference: 12-14 November 2024
 
