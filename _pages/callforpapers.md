@@ -12,7 +12,6 @@ Formal Methods will be held between 12 and 14 November 2025, with workshops taki
 ## Important dates
 - Abstract submission: June 6, 2025
 - Paper submission: June 20, 2025
-- Artifact submission: TO BE ANNOUNCED
 - Author notification: August 11, 2025
 - Camera ready: August 29, 2025
 - Workshops: 10-11 November 2024
