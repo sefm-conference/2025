@@ -12,6 +12,9 @@ published: true
 [Domenico Bianculli](https://people.svv.lu/bianculli/), University of Luxembourg, Luxembourg
 Elena Gómez-Martínez, Complutense University of Madrid, Spain
 
+## Workshops Chair
+Ignacio Requeno, Complutense University of Madrid
+
 ## Programme Committee
 
 To be announced...
