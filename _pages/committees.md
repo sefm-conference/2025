@@ -34,9 +34,9 @@ Elena Gómez-Martínez, Complutense University of Madrid, Spain
 [Encarnación Moyano](), University of Castilla-La Mancha, Spain
 [Jose Antonio Mateo](), University of Castilla-La Mancha, Spain
 [Gregorio Díaz](https://directorio.uclm.es/persona.aspx?cod=J4/W666fhV5Dgdj3hBKVxGU4VnuRezNS), University of Castilla-La Mancha, Spain
-[Benito Pareja](), University Complutensis of Madrid, Spain
-[Manuel Méndez](), University Complutensis of Madrid, Spain
-[Sinhue García](), University Complutensis of Madrid, Spain
+[[Miguel Benito-Parejo](https://antares.sip.ucm.es/miguel), Complutense University of Madrid, Spain
+[Manuel Méndez](), Complutense University of Madrid, Spain
+[Sinhué García Gil](https://informatica.ucm.es/directorio/?id=39114), Complutense University of Madrid, Spain
 
 
 ## Website
