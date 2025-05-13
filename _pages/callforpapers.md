@@ -14,14 +14,8 @@ Formal Methods will be held between 12 and 14 November 2025, with workshops taki
 - Paper submission: June 20, 2025
 - Author notification: August 11, 2025
 - Camera ready: August 29, 2025
-- Workshops: 10-11 November 2024
-- Conference: 12-14 November 2024
-
-<!-- 
-- Camera-ready submission: 10 September 2024
-- Artifact submission (tool papers): 9 June 2024 (AoE)
-- Artifact submission (regular papers): 16 June 2024 (AoE)
- -->
+- Workshops: 10-11 November 2025
+- Conference: 12-14 November 2025
 
 ## Overview and Scope
 
@@ -85,5 +79,5 @@ Papers can be submitted through Microsoft CMT:
 
 ## Publication
 
-TO BE ANNOUNCED
+All accepted papers will appear in the proceedings of the conference that will be published as a volume in Springer’s LNCS series.
 
