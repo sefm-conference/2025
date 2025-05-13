@@ -17,45 +17,45 @@ Ignacio Requeno, Complutense University of Madrid
 
 ## Programme Committee
 
-Adrian	Francalanza,	University of Malta, Malta		
-Alcino	Cunha,	INESC TEC & Universidade do Minho, Portugal
-Alexander	Knapp,	Universität Augsburg, Germany
-Alexandre	Madeira,	University of Aveiro, Portugal
-Augusto	Sampaio,	Universidade Federal de Pernambuco, Brazil
-Bernardo	Toninho, IST,	University of Lisbon, Portugal
-Burcu	Kulahcioglu Ozkan,	Delft University of Technology, Netherlands
-Carlo A.	Furia,	USI, Università della Svizzera italiana, Italy
-Carlos	Lopez Pombo,	Universidad Nacional de Rio Negro, Argentina
-Charles	Morisset,	Durham University, United Kingdom
-Claudio	Mandrioli,	University of Luxembourg, Luxembourg
-Claudio	Menghi,	University of Bergamo, Italy
-Dejan	Nickovic,	AIT Austrian Institute of Technology GmbH, Austria
-Diego	Perez,	Linnaeus University, Sweden
-Ezio	Bartocci,	TU Wien, Austria
-Frédéric	Lang,	Inria, France
-Gwen	Salaun,	Université Grenoble Alpes, France
-Ionut	Tutu,	Simion Stoilow Institute of Mathematics of the Romanian Academy, Romania
-Joao	Ferreira,	INESC-ID/IST, University of Lisbon, Portugal
-José	Proença,	CISTER & University of Porto, Portugal
-Jovanka	Pantovic,	University of Novi Sad, Servia
-Laura	Panizo Jaime,	Universidad de Málaga, Spain
-Luis	Barbosa,	Minho University, Portugal
-Marie-Christine	Jakobs,	LMU Munich, Germany
-Mario	Gleirscher,	University of Bremen, Germany
-Marjan	Sirjani,	Malardalen University, Sweden
-Matthias	Volk,	Eindhoven University of Technology, Netherlands
-Radu	Calinescu,	University of York, United Kingdom
-Raluca	Lefticaru,	University of Bradford, United Kingdom
-Renato 	Neves,	University of Minho, Portugal
-Rocco	De Nicola,	Istituto Informatica e Telematica - CNR Pisa, Italy
-Srdan	Krstic,	ETH Zürich, Switzerland
-Stephan	Merz,	Inria, France
-Taolue	Chen	Birkbeck, University of London, United Kingdom
-Tim	Willemse,	Eindhoven University of Technology, Netherlands
-Tolga	Ovatman,	Istanbul Technical University, Turkey	
-Víctor	Braberman,	UBA/CONICET, Argentina
-Violet Ka I	Pun,	Western Norway University of Applied Sciences, Norway
-Volker	Stolz,	Western Norway University of Applied Sciences, Norway
+Adrian	Francalanza,	University of Malta, Malta\
+Alcino	Cunha,	INESC TEC & Universidade do Minho, Portugal\
+Alexander	Knapp,	Universität Augsburg, Germany\
+Alexandre	Madeira,	University of Aveiro, Portugal\
+Augusto	Sampaio,	Universidade Federal de Pernambuco, Brazil\
+Bernardo	Toninho, IST,	University of Lisbon, Portugal\
+Burcu	Kulahcioglu Ozkan,	Delft University of Technology, Netherlands\
+Carlo A.	Furia,	USI, Università della Svizzera italiana, Italy\
+Carlos	Lopez Pombo,	Universidad Nacional de Rio Negro, Argentina\
+Charles	Morisset,	Durham University, United Kingdom\
+Claudio	Mandrioli,	University of Luxembourg, Luxembourg\
+Claudio	Menghi,	University of Bergamo, Italy\
+Dejan	Nickovic,	AIT Austrian Institute of Technology GmbH, Austria\
+Diego	Perez,	Linnaeus University, Sweden\
+Ezio	Bartocci,	TU Wien, Austria\
+Frédéric	Lang,	Inria, France\
+Gwen	Salaun,	Université Grenoble Alpes, France\
+Ionut	Tutu,	Simion Stoilow Institute of Mathematics of the Romanian Academy, Romania\
+Joao	Ferreira,	INESC-ID/IST, University of Lisbon, Portugal\
+José	Proença,	CISTER & University of Porto, Portugal\
+Jovanka	Pantovic,	University of Novi Sad, Servia\
+Laura	Panizo Jaime,	Universidad de Málaga, Spain\
+Luis	Barbosa,	Minho University, Portugal\
+Marie-Christine	Jakobs,	LMU Munich, Germany\
+Mario	Gleirscher,	University of Bremen, Germany\
+Marjan	Sirjani,	Malardalen University, Sweden\
+Matthias	Volk,	Eindhoven University of Technology, Netherlands\
+Radu	Calinescu,	University of York, United Kingdom\
+Raluca	Lefticaru,	University of Bradford, United Kingdom\
+Renato 	Neves,	University of Minho, Portugal\
+Rocco	De Nicola,	Istituto Informatica e Telematica - CNR Pisa, Italy\
+Srdan	Krstic,	ETH Zürich, Switzerland\
+Stephan	Merz,	Inria, France\
+Taolue	Chen	Birkbeck, University of London, United Kingdom\
+Tim	Willemse,	Eindhoven University of Technology, Netherlands\
+Tolga	Ovatman,	Istanbul Technical University, Turkey\
+Víctor	Braberman,	UBA/CONICET, Argentina\
+Violet Ka I	Pun,	Western Norway University of Applied Sciences, Norway\
+Volker	Stolz,	Western Norway University of Applied Sciences, Norway\
 
 
 ## Steering Committee
