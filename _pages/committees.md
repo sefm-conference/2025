@@ -38,6 +38,7 @@ Ionut	Tutu,	Simion Stoilow Institute of Mathematics of the Romanian Academy, Rom
 Joao	Ferreira,	INESC-ID/IST, University of Lisbon, Portugal\
 José	Proença,	CISTER & University of Porto, Portugal\
 Jovanka	Pantovic,	University of Novi Sad, Servia\
+Julio Mariño, Universidad Politécnica de Madrid, Spain\
 Laura	Panizo Jaime,	Universidad de Málaga, Spain\
 Luis	Barbosa,	Minho University, Portugal\
 Marie-Christine	Jakobs,	LMU Munich, Germany\
