@@ -46,7 +46,6 @@ Mario	Gleirscher,	University of Bremen, Germany\
 Marjan	Sirjani,	Malardalen University, Sweden\
 Matthias	Volk,	Eindhoven University of Technology, Netherlands\
 Radu	Calinescu,	University of York, United Kingdom\
-Raluca	Lefticaru,	University of Bradford, United Kingdom\
 Renato 	Neves,	University of Minho, Portugal\
 Rocco	De Nicola,	Istituto Informatica e Telematica - CNR Pisa, Italy\
 Srdan	Krstic,	ETH Zürich, Switzerland\
