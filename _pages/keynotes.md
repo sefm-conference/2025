@@ -50,6 +50,7 @@ This talk will describe recent work on automated testing of robotic systems. The
 
 ## [Ricardo Pérez del Castillo](https://directorio.uclm.es/persona.aspx?cod=ljw6FAsEQFZTBxXyu0dpH57wWYg5JNLhZp9qwGYAAcM=), University of Castilla-La Mancha, Spain 
 
+ <img src="{{ site.baseurl }}{% link assets/images/people/Ricardo-Perez.jpg %}" class="imageSpeaker" align="right"/>
 
 <!-- <p style="min-height: 170px;">
 
