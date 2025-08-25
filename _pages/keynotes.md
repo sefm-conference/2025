@@ -8,6 +8,8 @@ published: true
 
 ## [Elvira Albert](https://costa.fdi.ucm.es/~elvira/), Complutense University of Madrid, Spain
 
+<img src="{{ site.baseurl }}{% link assets/images/people/elvira.jpg %}" class="imageSpeaker" align="right"/>
+
 <!-- <p style="min-height: 170px;">
 
 
