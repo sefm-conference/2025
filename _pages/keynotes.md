@@ -26,11 +26,11 @@ Brief resume 1.
 
 ## [Robert M. Hierons](https://sheffield.ac.uk/cs/people/academic/rob-hierons), University of Sheffield, United Kingdom
 
-<!-- <img src="{{ site.baseurl }}{% link assets/images/people/barbosa.png %}" class="imageSpeaker" align="right"/>
+ <img src="{{ site.baseurl }}{% link assets/images/people/Rob-Hierons.jpeg %}" class="imageSpeaker" align="right"/>
 
  <p style="min-height: 170px;">
 
-
+<!--
 <br/>
 
 </p>
