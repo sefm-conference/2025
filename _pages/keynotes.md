@@ -61,8 +61,8 @@ This talk will describe recent work on automated testing of robotic systems. The
 
 -->
 
-**Titel 3** 
+**Quantum Software in Action: Challenges and Opportunities in Software Engineering** 
 
-Brief resume 3.
+Quantum computing is rapidly evolving from a theoretical promise to a practical reality, with profound implications for software engineering. As quantum hardware advances, the demand for rigorous methods, tools, and practices to design, verify, and maintain quantum software becomes increasingly critical. This talk examines the emerging field of quantum software engineering, with particular emphasis on the role of formal methods in ensuring correctness, reliability, and trustworthiness of quantum programs and hybrid quantum–classical systems. Key topics include quantum programming models, specification and verification techniques, testing approaches, scalability, and the integration of quantum algorithms into real-world applications. The talk also outlines opportunities for innovation in methodologies, frameworks, and interdisciplinary collaboration, providing a comprehensive perspective on how quantum software can transition from research prototypes to dependable systems.
 
 
