@@ -15,6 +15,9 @@ Elena Gómez-Martínez, Complutense University of Madrid, Spain
 ## Workshops Chair
 Ignacio Requeno, Complutense University of Madrid
 
+## Proceedings Chair
+[Drishti Yadav](https://orcid.org/0000-0002-2974-0323), University of Luxembourg, Luxembourg
+
 ## Programme Committee
 
 Adrian	Francalanza,	University of Malta, Malta\
