@@ -46,7 +46,7 @@ Concerning accomodation, there are plenty of hotels in the inner city. Any optio
 
 Some examples:
 
-[Casa del Armiño | Mansión de la familia de "El Grego"](https://casadelarmino.es)
+[Casa del Armiño - Mansión de la familia de "El Grego"](https://casadelarmino.es)
 
 [Hotel Boutique Posada de Sillería – En el corazón de Toledo](https://hotelposadasilleria.es/)
 
