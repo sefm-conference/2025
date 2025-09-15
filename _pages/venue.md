@@ -36,9 +36,23 @@ If you have any specific questions or need more details, feel free to ask!
 
 ## Informations about the conference and workshops venue
 
-TO BE ANNOUNCED
+UCLM - Edificio Universitario San Pedro Mártir - Madre de Dios
+Toledo (Spain)
+GPS: 39.8579, -4.0266 - [Google maps link](https://maps.app.goo.gl/EJNegwk8qtyRpMcc8)
 
+## ACOMMODATION
 
+Concerning accomodation, there are plenty of hotels in the inner city. Any option around Zocodover square is walking distance to the venue.
+
+Some examples:
+
+[Casa del Armiño | Mansión de la familia de "El Grego"](https://casadelarmino.es)
+
+[Hotel Boutique Posada de Sillería – En el corazón de Toledo](https://hotelposadasilleria.es/)
+
+[Hotel Boutique Entre Dos Aguas](https://www.casaentredosaguas.es/)
+
+[Casa Palacio Rincón de la Catedral](https://rincondelacatedral.es/)
 
 ## Excursion and Social Event
 
