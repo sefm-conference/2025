@@ -16,13 +16,13 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
 TO BE ANNOUNCED
 
 
-<h2><b>DAY 2, Thursday, November 13, 2024
+<h2><b>DAY 2, Thursday, November 13, 2025
 </b></h2>
 
 TO BE ANNOUNCED
 
 
-<h2><b>DAY 3, Friday, November 14, 2024
+<h2><b>DAY 3, Friday, November 14, 2025
 </b></h2>
 
 TO BE ANNOUNCED
