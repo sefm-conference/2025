@@ -19,7 +19,7 @@ Ignacio Requeno, Complutense University of Madrid
 [Drishti Yadav](https://orcid.org/0000-0002-2974-0323), University of Luxembourg, Luxembourg
 
 ## Publicity Chair 
-[Miguel Benito Parejo](https://orcid.org/0000-0001-6707-7895), Complutense University of Madrid, Spain
+[Miguel Benito Parejo](https://antares.sip.ucm.es/miguel), Complutense University of Madrid, Spain
 
 ## Programme Committee
 
