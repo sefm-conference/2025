@@ -9,6 +9,7 @@ SEFM 2025 will take place at the University of Castilla-La Mancha (UCLM) in Tole
 
 The building is: Convento de San Pedro Martir, [link to Google Maps](https://maps.app.goo.gl/GjJqQSijpS2XbRCE8).
 
+Location of the different activities:
 ***Registration desk***: in front of Sala de Música. \
 ***SEFM and DataMod talks***: Sala de Música.\
 ***CIFMA talks***: Seminar 0.0.5. \
