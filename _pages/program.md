@@ -12,7 +12,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
 **Important:** All presentations will be held in **Sala de Música (Wednesday and Friday) and Teatrillo (Thursday)**.
 
 
-## Wednesday, November 12
+## Wednesday, November 12, Sala de Música
 
 | Time | Session | Details |
 |------|----------|----------|
@@ -30,7 +30,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
 | 20:30 – 22:30 | **Welcome Reception** | **Hacienda del Cardenal**, Paseo de Recaredo, 24. 45002 Toledo<br>[Website](https://www.haciendadelcardenal.com/) · [Maps](https://maps.app.goo.gl/qiDzEXc8revFuDfj6) |
 
 
-## Thursday, November 13
+## Thursday, November 13, Teatrillo
 
 | Time | Session | Details |
 |------|----------|----------|
@@ -49,7 +49,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
 
 
 
-## Friday, November 14
+## Friday, November 14, Sala de Música
 
 | Time | Session | Details |
 |------|----------|----------|
