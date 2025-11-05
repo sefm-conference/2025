@@ -9,7 +9,7 @@ published: true
 Below is the main program of SEFM, to check for directions of the venue see the page [venue]({{ site.baseurl }}{% link _pages/venue.md %}).
 Details on the workshop program can be found [here]({{ site.baseurl }}{% link _pages/workshops.md %}).
 
-**Important:** All presentations will be held in **Sala de Música (San Pedro Mártir Building)**.
+**Important:** All presentations will be held in **Sala de Música (Wednesday and Friday) and Teatrillo (Thursday)**.
 
 
 ## Wednesday, November 12
