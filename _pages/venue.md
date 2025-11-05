@@ -9,11 +9,12 @@ SEFM 2025 will take place at the University of Castilla-La Mancha (UCLM) in Tole
 
 The building is: Convento de San Pedro Martir, [link to Google Maps](https://maps.app.goo.gl/GjJqQSijpS2XbRCE8).
 
-Location of the different activities:\
+Location of the different rooms in San Pedro Mártir building:\
 ***Registration desk***: in front of Sala de Música. \
-***SEFM and DataMod talks***: Sala de Música.\
-***CIFMA talks***: Seminar 0.0.5. \
-***ReacTS talks***: Seminar 1.0.7.\
+***SEFM talks***: Sala de Música (Wednesday and Friday) and Teatrillo (Thursday).\
+***DataMod talks***: Sala de Música.\
+***CIFMA talks***: Teatrillo.\
+***ReacTS talks***: Seminar 1.0.3.\
 ***Coffee break***: Secretaría Temporal.
 
 Toledo is a historic city located in central Spain, known for its rich cultural heritage and stunning architecture. Often referred to as the "City of Three Cultures," Toledo has a unique blend of Christian, Muslim, and Jewish influences.
