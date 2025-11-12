@@ -27,7 +27,7 @@ Details on the workshop program can be found [here]({{ site.baseurl }}{% link _p
 | 15:30 – 16:00 | Carolina Carreira, João F. Ferreira, Alexandra Mendes, Nicolas Christin | *Are Users More Willing to Use Formally Verified Password Managers?* |
 | 16:00 – 16:30 | Carolina Carreira, Álvaro Silva, Alexandre Abreu, Alexandra Mendes | *Can Large Language Models Help Students Prove Software Correctness? An Experimental Study with Dafny* |
 | 16:30 – 17:00 | **Coffee break** |  |
-| 20:30 – 22:30 | **Welcome Reception** | **Hacienda del Cardenal**, Paseo de Recaredo, 24. 45002 Toledo<br>[Website](https://www.haciendadelcardenal.com/) · [Maps](https://maps.app.goo.gl/qiDzEXc8revFuDfj6) |
+| 20:30 – 22:30 | **Welcome Reception** | **Hacienda del Cardenal**, Paseo de Recaredo, 24. 45002 Toledo<br>[Website](https://www.haciendadelcardenal.com/) · [Maps](https://maps.app.goo.gl/TCkUzmASxkaDNWjH9) |
 
 
 ## Thursday, November 13, Teatrillo
