@@ -2,7 +2,7 @@
 layout: page_plain
 title: Workshops
 permalink: /workshops/
-order: 7
+order: 8
 published: true
 ---
 
