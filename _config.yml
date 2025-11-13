@@ -22,10 +22,11 @@ include: [_pages]
 title: SEFM 2025
 subtitle: 23rd International Conference on Software Engineering and Formal Methods
 date: 10-14 November 2025, Toledo, Spain
-email: Free online access to the SEFM 2025 proceedings (LNCS 16192) is now available.
-  <a href="https://sefm-conference.github.io/2025/lncs16192/">Access the proceedings</a>.
 baseurl: "/2025" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+global_banner: >
+  **Last news:** Free online access to the SEFM 2025 proceedings (LNCS 16192) is now available.
+  [Access the proceedings](https://sefm-conference.github.io/2025/lncs16192/).
  
 
 copyright: "SEFM 2025"
