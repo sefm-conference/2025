@@ -36,5 +36,12 @@
           </div>
         </nav>
       {%- endif -%}
+
+      {% if site.global_banner %}
+        <div class="notice--info">
+          {{ site.global_banner | markdownify }}
+        </div>
+      {% endif %}
+    
     </div>
 </header>
