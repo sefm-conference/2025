@@ -4,7 +4,7 @@ permalink: /
 ---
 
 {: .notice--info}
-**Latest update:** [LNCS 16192](/lncs16192/) free access link has been added to the website.
+**Latest update:** [LNCS 16192](/2025/lncs16192/) free access link has been added to the website.
 
 <h2 class="secondH">Welcome to SEFM 2025</h2>
 The 23nd edition of the International Conference on Software Engineering and
