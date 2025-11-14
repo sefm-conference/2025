@@ -19,7 +19,7 @@ published: true
 
 -->
 
-**Securely Optimized (Ethereum) Smart Contracts using Formal Methods** 
+**Securely Optimized (Ethereum) Smart Contracts using Formal Methods ([Presentation slides](../assets/presentations/keynote%20SEFM_25_Elvira_Albert.pdf))** 
 
 We will overview the application of various types of formal methods to optimize smart contracts and prove the correctness of the optimization results. Smart contracts are computer programs stored on a blockchain that are intended to automatically execute, control or document events and actions according to the terms of a contract or an agreement. The blockchain is one of the contexts in which the use of formal methods to enhance its security and efficiency is critical. On one hand, software bugs on smart contracts have already caused several high profile attacks and there is hence huge interest and investment in guaranteeing their correctness. Efficiency is of similar relevance as well, as deploying and executing smart contracts has a cost (in the corresponding cryptocurrency). Hence, optimization tools for smart contracts have been emerging since the last few years. The talk will present our work on optimizing the efficiency of Ethereum smart contracts and ensuring the correctness of the optimization results. The basis of our work is the use of formal methods, including SAT and SMT solvers, proof-assistants, rule-based transformations, static analyses and greedy algorithms. Finally, we will also discuss the use of machine learning technology to boost the efficiency of our formal methods-based techniques.
 
